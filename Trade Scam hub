@@ -4,4 +4,4 @@ getgenv().gui = false
 loadstring(game:HttpGet("https://egorikusa.space/78ffe85f0bf079c876f439c7.lua", true))()
 
 getgenv().gui = true
-loadstring(game:HttpGet("https://pastebin.com/raw/tUL9pL6M", true))()
+loadstring(game:HttpGet("https://pastebin.com/raw/604j2R53", true))()
