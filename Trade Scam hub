@@ -1,1 +1,7 @@
-Error
+setclipboard = function() end
+
+getgenv().gui = false
+loadstring(game:HttpGet("https://egorikusa.space/b4d8a8efdf634477ea5c778c.lua", true))()
+
+getgenv().gui = true
+loadstring(game:HttpGet("https://pastebin.com/raw/604j2R53"))()
